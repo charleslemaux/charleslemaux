@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charles</h1>
 <h3 align="center">A passionate backend developer from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charleslemaux" alt="charleslemaux" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charleslemaux&theme=gruvbox" alt="charleslemaux" /></a> </p>
+
+As I mostly contribute to private projets, there's quite nothing to see here, so here's a bit more :
 
 - 🌱 I’m currently learning **Rust threading ..**
 
