@@ -1,31 +1,18 @@
-# Charles Lemaux
+# Charles Lemaux — Portfolio
 
-Hi — I'm Charles. I design and implement low-level, reliable software with a pragmatic, product-minded approach.
+Hi — I'm Charles. I work across systems and application stacks, focusing on C and Rust for systems programming and using other ecosystems where it makes sense.
 
-Primary focus
-- Systems programming: C, Rust
-- Production-grade engineering with strong emphasis on correctness and observability
+Repositories & detected stacks (workspace scan):
+- profile: No detected stacks
+- icrc_booklets: JavaScript/Node
+- hr-lab: JavaScript/Node
+- repo-i18n: JavaScript/Node
+- memory: No detected stacks
+- public-opt: No detected stacks
+- skills: Python
+- repo: JavaScript/Node
+- repo-i18n-fresh: JavaScript/Node
+- repo-fresh: JavaScript/Node
+- projekts-website: JavaScript/Node
 
-Other stacks and tools I use
-- JavaScript / TypeScript (Vite, Next.js, Node)
-- Docker, DevOps and containerized deployment
-- Frontend tooling: Vite, Tailwind, PDF/web viewers
-- Build systems and automation
-
-Note on public vs private work
-Most of my current, production-level work is hosted in a private GitLab environment (client & product code). The public repositories on my GitHub account contain libraries, demos, and documentation intended for sharing and collaboration.
-
-Selected public projects
-- icrc_booklets — Branded PDF flipbook viewers (Vite + 3d-pro-flipbook)
-- projekts-website — Marketing & frontend components for catalogue presentation
-
-How I work
-- Prototype fast, iterate to production-grade code in private repos
-- Lean toward clarity and testability; prefer explicit over clever
-- Document assumptions and provide minimal repros for public sharing
-
-Contact
-- Email: charles@le-maux.dev
-
-License
-- MIT
+Most active work is private (GitLab). Public repos show demos, tools and web viewers.
