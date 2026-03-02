@@ -2,7 +2,7 @@
 
 Hi — I'm Charles. I build reliable systems and practical web tooling with a focus on C and Rust, and I maintain a number of public demos and utilities here on GitHub. Most of my active, production-grade work runs in a private GitLab environment.
 
-[![Email](https://img.shields.io/badge/Email-charles@le--maux.dev-0066cc?style=flat&logo=gmail)](mailto:charles@le-maux.dev) [![Website](https://img.shields.io/badge/Portfolio-website-222?style=flat&logo=github)](https://charleslemaux.dev)
+[![Email](https://img.shields.io/badge/Email-charles@le--maux.dev-0066cc?style=flat&logo=gmail)](mailto:charles@le-maux.dev) [![Website](https://img.shields.io/badge/Projekts-website-222?style=flat&logo=googlescholar)](https://www.projekts.com/)
 
 ---
 
