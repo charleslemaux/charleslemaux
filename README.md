@@ -18,20 +18,6 @@ Tech & tools
 
 ---
 
-Selected repositories (short descriptions)
-
-- icrc_booklets — Monorepo of branded PDF flipbook viewers (Projekts & HRLab). Built with Vite, 3d-pro-flipbook; focuses on high-fidelity document presentation on the web. (JS/Node)
-- projekts-website — Marketing site and frontend components used to showcase catalogues and assets; Tailwind + Vite/Next-style tooling. (JS/TS)
-- hr-lab — HRLab website (Next.js + Tailwind). The PDF reader integrates the site branding and fonts. (JS/Node)
-- repo, repo-fresh, repo-i18n, repo-i18n-fresh — Internal project templates and internationalization experiments (JS/Node). (utility & scaffolding)
-- skills — Small utility scripts and skill definitions used by automation and tooling (Python).
-- public-opt — Asset and optimization experiments (images, public files).
-- memory — Personal workspace memory / notes used by automation.
-
-> Note: I also work with Unreal Engine and game/tooling stacks; those projects and bigger clients live in private repositories (self-hosted GitLab).
-
----
-
 How I work
 
 - Prototype quickly in public repos and iterate privately for production systems.
